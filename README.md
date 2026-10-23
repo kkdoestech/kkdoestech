@@ -14,34 +14,13 @@
 
 ## 🧪 Projects I'm Learning With
 
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/kkdoestech/lieng-stealer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkdoestech&repo=lieng-stealer&bg_color=0D0D0D&title_color=FF1F3D&icon_color=00A8FF&text_color=FFFFFF&border_color=0047FF" alt="lieng-stealer" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/kkdoestech/matchoracle-honest">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkdoestech&repo=matchoracle-honest&bg_color=0D0D0D&title_color=FF1F3D&icon_color=00A8FF&text_color=FFFFFF&border_color=0047FF" alt="matchoracle-honest" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/kkdoestech/m6rec-pytorch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkdoestech&repo=m6rec-pytorch&bg_color=0D0D0D&title_color=FF1F3D&icon_color=00A8FF&text_color=FFFFFF&border_color=0047FF" alt="m6rec-pytorch" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/kkdoestech/stealer-recreation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkdoestech&repo=stealer-recreation&bg_color=0D0D0D&title_color=FF1F3D&icon_color=00A8FF&text_color=FFFFFF&border_color=0047FF" alt="stealer-recreation" />
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <a href="https://github.com/kkdoestech/lieng-stealer"><img src="./assets/cards/lieng-stealer.svg" width="400" alt="lieng-stealer" /></a>
+  <a href="https://github.com/kkdoestech/matchoracle-honest"><img src="./assets/cards/matchoracle-honest.svg" width="400" alt="matchoracle-honest" /></a>
+  <br/>
+  <a href="https://github.com/kkdoestech/m6rec-pytorch"><img src="./assets/cards/m6rec-pytorch.svg" width="400" alt="m6rec-pytorch" /></a>
+  <a href="https://github.com/kkdoestech/stealer-recreation"><img src="./assets/cards/stealer-recreation.svg" width="400" alt="stealer-recreation" /></a>
+</p>
 
 ---
 
@@ -60,12 +39,6 @@
 </div>
 
 ---
-
-## 📊 Most Used Languages
-
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkdoestech&layout=compact&bg_color=0D0D0D&title_color=FF1F3D&text_color=FFFFFF&border_color=0047FF" alt="top languages" />
-</div>
 
 <div align="center">
   <img src="./assets/pulsar.gif" width="100%" alt="avatars sucked into a pulsar" />
