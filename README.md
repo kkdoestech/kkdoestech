@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047FF,100:FF1F3D&height=200&section=header&text=Hey,%20I'm%20KK%20%F0%9F%91%BE&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=student%20%C2%B7%20learner%20%C2%B7%20building%20with%20data&descSize=16&descAlignY=58&animation=twinkling" width="100%" alt="header" />
-</h1>
-
 <div align="center">
   <img src="./assets/glitch.gif" width="100%" alt="avatars glitching around a black hole" />
 </div>
@@ -13,24 +9,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kkdoestech&color=FF1F3D&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 </div>
-
----
-
-## 👾 About Me
-
-```yaml
-name: KK
-status: student 🎓
-location: UTC+7
-learning: [Machine Learning, Game Theory, Java DSA, Recommender Systems]
-currently: building solvers & predictors
-mode: online_
-```
-
-- 🎓 I'm a student who learns best by building things and breaking them
-- 🃏 Right now I'm exploring **game theory** through card games like Liêng and poker
-- ⚽ I'm practicing honest ML evaluation by predicting **Premier League** matches
-- 🧠 Next up: recommender systems, PyTorch, and getting better at algorithms in Java
 
 ---
 
@@ -83,15 +61,12 @@ mode: online_
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kkdoestech&show_icons=true&bg_color=0D0D0D&title_color=FF1F3D&icon_color=00A8FF&text_color=FFFFFF&border_color=0047FF" alt="stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=kkdoestech&background=0D0D0D&border=0047FF&stroke=0047FF&ring=FF1F3D&fire=FFD300&currStreakNum=39FF14&currStreakLabel=00A8FF&sideNums=FFFFFF&sideLabels=00A8FF&dates=AAAAAA" alt="streak" />
-  <br/>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkdoestech&layout=compact&bg_color=0D0D0D&title_color=FF1F3D&text_color=FFFFFF&border_color=0047FF" alt="top languages" />
 </div>
 
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1F3D,100:0047FF&height=140&section=footer&text=thanks%20for%20visiting%20%C2%B7%20stay%20glitchy&fontSize=24&fontColor=FFFFFF&fontAlignY=72&animation=twinkling" width="100%" alt="footer" />
-</h1>
+<div align="center">
+  <img src="./assets/pulsar.gif" width="100%" alt="avatars sucked into a pulsar" />
+</div>
